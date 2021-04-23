@@ -1,4 +1,6 @@
-# My first program
+"""
+A random HELLOWORLD
+"""
 from random import randint
 
 greetings = ['Hello World' , 'Hola Mundo' , 'Ciao Mondo' , 'Bonjour le Monde', 'Hallo Welt']
