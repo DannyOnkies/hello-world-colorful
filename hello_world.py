@@ -1,5 +1,5 @@
 """
-A random HELLOWORLD
+A RANDOM AND COLORFUL 'HELLOWORLD'
 """
 
 from colorama import *
