@@ -4,4 +4,6 @@
 previous project https://github.com/DannyOnkies/hello-world
 
 In this version the message is printed in a position of the prompt window 
-with the color YELLOW and the background BLUE
+with the color **YELLOW** and the background **BLUE*
+
+##The colorama library was used
